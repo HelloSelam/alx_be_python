@@ -1,3 +1,4 @@
+# Assigning values to variables
 length = 10
 width = 5
 
